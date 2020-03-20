@@ -1,6 +1,6 @@
 # novelist
 
-NoveList application
+NoveList is mobile application that use for create and share your own novel widely around the world
 
 ## Getting Started
 
